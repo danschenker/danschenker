@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hey. 👋
 
 <!--
 **danschenker/danschenker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>Dan is a lot of things—a strategist, photographer, drone pilot, Google Trusted Photographer, creator of AR effects, AI Artist, photo editing preset maker, time traveler, occasional bassist, and he can make an omelette pretty well.</p>
+
+<p>He has contributed to companies like Google, TikTok, Squarespace, Bose, iRobot, Order Desk, and NJspots, and has consulted teams at Facebook, Twitter, and more.</p>
+
+<p>Dan lives in Sussex County, New Jersey, where his wife and two kids politely put up with his absolutely unnecessary amount of puns and dad jokes and his seemingly endless collection of hobbies.</p>
+
+<p>Visit <a href="https://danschenker.com">danschenker.com</a> to learn more.</p>
